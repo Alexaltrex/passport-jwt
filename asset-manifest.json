@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/passport-jwt/static/css/main.601870b0.css",
+    "main.js": "/passport-jwt/static/js/main.ba04c01b.js",
+    "static/js/787.ef220b2b.chunk.js": "/passport-jwt/static/js/787.ef220b2b.chunk.js",
+    "index.html": "/passport-jwt/index.html",
+    "main.601870b0.css.map": "/passport-jwt/static/css/main.601870b0.css.map",
+    "main.ba04c01b.js.map": "/passport-jwt/static/js/main.ba04c01b.js.map",
+    "787.ef220b2b.chunk.js.map": "/passport-jwt/static/js/787.ef220b2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.601870b0.css",
+    "static/js/main.ba04c01b.js"
+  ]
+}
